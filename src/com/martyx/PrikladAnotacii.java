@@ -1,7 +1,7 @@
 package com.martyx;
 
 @Author (
-        name = "Martin Bugar",
+        name = {"Martin Bugar","Martin Bugar"},
         date = "02/02/2018"
 )
 
