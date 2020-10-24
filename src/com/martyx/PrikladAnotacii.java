@@ -7,4 +7,14 @@ package com.martyx;
 
 
 public class PrikladAnotacii {
+
+    /**
+     *
+     * @param args
+     */
+
+    @JednoHodnotova("Martin")
+    public static void main(String[] args) {
+
+    }
 }
